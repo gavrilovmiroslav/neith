@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gavab\\source\\repos\\Neith\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{345B8D70-3F51-49B7-B789-7385EE34386B}|NeithConsole\\NeithConsole.csproj|c:\\users\\gavab\\source\\repos\\neith\\neithconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{345B8D70-3F51-49B7-B789-7385EE34386B}|NeithConsole\\NeithConsole.csproj|solutionrelative:neithconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8E919D-2DAC-48EF-93B6-BDE5DB7834FD}|NeithCore\\NeithCore.csproj|c:\\users\\gavab\\source\\repos\\neith\\neithcore\\dot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8E919D-2DAC-48EF-93B6-BDE5DB7834FD}|NeithCore\\NeithCore.csproj|solutionrelative:neithcore\\dot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8E919D-2DAC-48EF-93B6-BDE5DB7834FD}|NeithCore\\NeithCore.csproj|c:\\users\\gavab\\source\\repos\\neith\\neithcore\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8E919D-2DAC-48EF-93B6-BDE5DB7834FD}|NeithCore\\NeithCore.csproj|solutionrelative:neithcore\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8E919D-2DAC-48EF-93B6-BDE5DB7834FD}|NeithCore\\NeithCore.csproj|c:\\users\\gavab\\source\\repos\\neith\\neithcore\\strand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8E919D-2DAC-48EF-93B6-BDE5DB7834FD}|NeithCore\\NeithCore.csproj|solutionrelative:neithcore\\strand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8E919D-2DAC-48EF-93B6-BDE5DB7834FD}|NeithCore\\NeithCore.csproj|c:\\users\\gavab\\source\\repos\\neith\\neithcore\\io.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B8E919D-2DAC-48EF-93B6-BDE5DB7834FD}|NeithCore\\NeithCore.csproj|solutionrelative:neithcore\\io.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 132,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Strand.cs",
+              "DocumentMoniker": "C:\\Users\\gavab\\source\\repos\\Neith\\NeithCore\\Strand.cs",
+              "RelativeDocumentMoniker": "NeithCore\\Strand.cs",
+              "ToolTip": "C:\\Users\\gavab\\source\\repos\\Neith\\NeithCore\\Strand.cs",
+              "RelativeToolTip": "NeithCore\\Strand.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAcwCAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T22:13:00.426Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dot.cs",
+              "DocumentMoniker": "C:\\Users\\gavab\\source\\repos\\Neith\\NeithCore\\Dot.cs",
+              "RelativeDocumentMoniker": "NeithCore\\Dot.cs",
+              "ToolTip": "C:\\Users\\gavab\\source\\repos\\Neith\\NeithCore\\Dot.cs",
+              "RelativeToolTip": "NeithCore\\Dot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T23:29:16.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IO.cs",
+              "DocumentMoniker": "C:\\Users\\gavab\\source\\repos\\Neith\\NeithCore\\IO.cs",
+              "RelativeDocumentMoniker": "NeithCore\\IO.cs",
+              "ToolTip": "C:\\Users\\gavab\\source\\repos\\Neith\\NeithCore\\IO.cs",
+              "RelativeToolTip": "NeithCore\\IO.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAADkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T00:50:20.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Graph.cs",
+              "DocumentMoniker": "C:\\Users\\gavab\\source\\repos\\Neith\\NeithCore\\Graph.cs",
+              "RelativeDocumentMoniker": "NeithCore\\Graph.cs",
+              "ToolTip": "C:\\Users\\gavab\\source\\repos\\Neith\\NeithCore\\Graph.cs",
+              "RelativeToolTip": "NeithCore\\Graph.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA5wB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T00:41:24.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gavab\\source\\repos\\Neith\\NeithConsole\\Program.cs",
+              "RelativeDocumentMoniker": "NeithConsole\\Program.cs",
+              "ToolTip": "C:\\Users\\gavab\\source\\repos\\Neith\\NeithConsole\\Program.cs",
+              "RelativeToolTip": "NeithConsole\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T00:04:26.404Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
